@@ -10,5 +10,5 @@ En este proyecto, se realizará la *normalización* de datos para eliminar la re
 ---------------------------------------------------------------------------------------------------------
 ### Proyecto Elaborado en Colaboración entre Equipos de Data Science y Full Stack
 #### Grupo 4:
----- DS: Sara Salguero, Steven Noboa Ordóñez, Águeda González Valle.
----- FS: Julia Isasti, Carlos Chinchilla Moreno.
+- DS: Sara Salguero, Steven Noboa Ordóñez, Águeda González Valle.
+- FS: Julia Isasti, Carlos Chinchilla Moreno.
