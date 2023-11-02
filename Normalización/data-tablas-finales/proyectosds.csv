@@ -1,0 +1,26 @@
+ID_calificacionesDS,ID_Intake,ID_Estudiante,Proyecto_HLF,Proyecto_EDA,Proyecto_BBDD,Proyecto_ML,Proyecto_Deployment
+1,1,1,Apto,No Apto,Apto,Apto,Apto
+2,1,2,Apto,No Apto,Apto,Apto,Apto
+3,1,3,Apto,Apto,Apto,No Apto,Apto
+4,1,4,Apto,No Apto,No Apto,Apto,No Apto
+5,1,5,Apto,No Apto,Apto,Apto,Apto
+6,1,6,Apto,Apto,Apto,Apto,Apto
+7,1,7,No Apto,Apto,Apto,Apto,Apto
+8,1,8,No Apto,Apto,Apto,Apto,Apto
+9,1,9,Apto,Apto,Apto,No Apto,Apto
+10,1,10,Apto,No Apto,Apto,Apto,Apto
+11,1,11,Apto,Apto,Apto,Apto,Apto
+12,1,12,Apto,No Apto,No Apto,Apto,Apto
+13,1,13,Apto,No Apto,Apto,Apto,Apto
+14,1,14,Apto,Apto,Apto,Apto,Apto
+15,1,15,Apto,Apto,Apto,Apto,Apto
+16,6,16,Apto,No Apto,No Apto,Apto,No Apto
+17,6,17,Apto,No Apto,Apto,Apto,No Apto
+18,6,18,Apto,No Apto,Apto,Apto,Apto
+19,6,19,Apto,Apto,Apto,Apto,Apto
+20,6,20,No Apto,Apto,No Apto,Apto,Apto
+21,6,21,No Apto,No Apto,Apto,Apto,Apto
+22,6,22,Apto,Apto,No Apto,Apto,Apto
+23,6,23,No Apto,Apto,No Apto,Apto,Apto
+24,6,24,No Apto,Apto,No Apto,No Apto,Apto
+25,6,25,Apto,Apto,Apto,Apto,Apto
